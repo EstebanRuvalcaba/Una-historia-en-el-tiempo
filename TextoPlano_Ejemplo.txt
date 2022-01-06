@@ -2,4 +2,4 @@ Hola este es la introducion al metaPlatzi
 
 Ahora existira una version, un mmundo diferente para cada version de este archivo
 
-Necesitaba remplazar la version master con la primer version :0 
+Version 4.5 :0 
