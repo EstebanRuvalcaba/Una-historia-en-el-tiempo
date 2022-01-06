@@ -5,8 +5,3 @@ Ahora existira una version, un mmundo diferente para cada version de este archiv
 Version 4.5 :0 
 
 Continuemos viviendo en la rama principal :v 
-
-Tuviste que elegir entre conbinar un conflicto, no podias vivir en los dos mundos sin renunciar 
-a la vida continua sin cambios o renunciar al caotico novedoso 
-
-Los dos mundos paralelos se han fucionado en uno solo hahaha 
