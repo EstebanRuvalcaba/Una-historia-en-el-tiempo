@@ -2,4 +2,4 @@ Hola este es la introducion al metaPlatzi
 
 Ahora existira una version, un mmundo diferente para cada version de este archivo
 
-Bienvenido a la version 2.5, :=0
+Bienvenido a la version 3.5, :=0
