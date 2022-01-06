@@ -4,4 +4,4 @@ Ahora existira una version, un mmundo diferente para cada version de este archiv
 
 Version 4.5 :0 
 
-Vamos a crear un portal a un mundo paralelo :0 
+Continuemos viviendo en la rama principal :v 
