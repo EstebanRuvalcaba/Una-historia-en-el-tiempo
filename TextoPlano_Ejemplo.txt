@@ -12,4 +12,4 @@ Ya logra la comunicacion de forma automatica
  
 Reocordando los cambios_version 6.4 sin login, yey
 
-Haicnedo una commit desde otra locacion :0, si ya los vi
+Haicnedo una commit desde otra locacion :0, si ya los vi_:0
