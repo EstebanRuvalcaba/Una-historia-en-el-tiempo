@@ -11,3 +11,5 @@ Comunicacion desde el inframundo :v
 Ya logra la comunicacion de forma automatica
  
 Reocordando los cambios_version 6.4 sin login, yey
+
+Haicnedo una commit desde otra locacion :0
