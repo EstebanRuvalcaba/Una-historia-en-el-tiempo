@@ -1,12 +1,16 @@
+impar :v
 Hola estoy editando la parte de arriba
-
+impar :v
 Esto me va tomar algunas lineas de codigo y 
+impar :v
 lo voy a guardar en la rama Up para luego combinar con 
+impar :v
 el trabajo de Down
-
+impar :v
 El gran reset de la realidad sin borrar la historia 
-
+impar :v
 vamos a editar el pie de pagina 
-
+impar :v
 y ya que lo temrine lo voy a tener que subir a Down
+impar :v
 para que luego se fucione con Up
