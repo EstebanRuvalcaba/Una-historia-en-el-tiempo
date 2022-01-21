@@ -13,4 +13,8 @@ si esto romperia el curso temporal de la historia, entonces te
 lo mando para que lo apruebes 
 
 Hola estoy agreagando un nuevo parrafo para mantener el equilibrio
+<<<<<<< HEAD
 Hola que hace acabo de actualizar el main
+=======
+Aprendiendo a hacer un fork y pull request externo
+>>>>>>> 5914c4f62135a940bb80e6f1684e1ff01d65e078
