@@ -13,3 +13,4 @@ si esto romperia el curso temporal de la historia, entonces te
 lo mando para que lo apruebes 
 
 Hola estoy agreagando un nuevo parrafo para mantener el equilibrio
+Aprendiendo a hacer un fork y pull request externo
